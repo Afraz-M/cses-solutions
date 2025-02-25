@@ -1,0 +1,6 @@
+*.exe
+*.txt
+*.txt
+base.py
+template.cpp
+.vscode
