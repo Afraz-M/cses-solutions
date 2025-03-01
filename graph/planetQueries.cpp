@@ -40,14 +40,6 @@ int main()
         }
     }
  
-    // for (auto row : table)
-    // {
-    //     for (auto cell : row)
-    //     {
-    //         cout << cell << " ";
-    //     }
-    //     cout << endl;
-    // }
  
     for (int i = 0; i < q; i++)
     {
